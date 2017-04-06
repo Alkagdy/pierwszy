@@ -1,0 +1,8 @@
+print(5)
+print(5+3)
+print(2*3)
+type (2)
+print (type(2))
+print(type(2.9))
+print(20/10)
+print(round(15/3))
